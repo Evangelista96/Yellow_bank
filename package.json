@@ -1,0 +1,27 @@
+{
+  "name": "yellow_bank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evangelista96/Yellow_bank.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Evangelista96/Yellow_bank/issues"
+  },
+  "homepage": "https://github.com/Evangelista96/Yellow_bank#readme",
+  "dependencies": {
+    "@types/node": "^24.3.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/readline-sync": "^1.4.8"
+  }
+}
